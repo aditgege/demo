@@ -1,4 +1,6 @@
  
 {
-  "test": "hello world"
+  "mahasiswa": [
+   { id: 1 , name: "adit" }
+  ]
 }
