@@ -1,15 +1,12 @@
 {
     "data": [
         {
-            "nama": "AKTIVA",
-            "level": 1
-            "children": [
-               {
-                  "nama": "KAS",
-                  "level": 1
-              },
-            ]
+            "name": "Adit",
+            "hobby": "Reading"
         },
-       
+        {
+            "name": "Ridwan",
+            "hobby": "Reading"
+        },
     ]
 }
