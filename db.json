@@ -1,6 +1,6 @@
  
 {
   "mahasiswa": [
-   { id: 1 , name: "adit" }
+   { "id": 1 , "name": "adit" }
   ]
 }
