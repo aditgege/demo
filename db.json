@@ -1,8 +1,7 @@
 {
-    "data": [
-        {
-            "name": "Adit",
-            "hobby": "Reading"
-        },
-    ]
+  "mahasiswa": [
+    { "id": 1, "name": "Adit" },
+    { "id": 2, "name": "Rijali" },
+    { "id": 3, "name": "Abdul" }
+  ],
 }
